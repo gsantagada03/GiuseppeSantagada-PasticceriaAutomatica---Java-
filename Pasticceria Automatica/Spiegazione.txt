@@ -1,0 +1,4 @@
+array con le varie opzioni per la scelta;
+si entra nel do while in modo tale che l'utente possa scegliere solamente si o no;
+in caso dica di si, si entra nell'if per chiedere quali basi vuole e nel for per ciclare fino al gusto scelto;
+//inizializzo il for solamente con i numeri che ha scelto;
